@@ -6,35 +6,6 @@ gulp.task('sass',async function(){
     gulp.src('index.scss').pipe(sass()).pipe(gulp.dest('css'))
 })
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // // task
 // gulp.task('log',function(){
 //     console.log("logging")

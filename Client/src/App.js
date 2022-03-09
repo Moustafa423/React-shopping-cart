@@ -1,18 +1,14 @@
 import React from 'react'
-
+import Header from './component/Header/Header';
+import Footer from './component/Footer/Footer';
 function App() {
   return (
     <div className='layout'>
-      
-        <header>
-           Shopping Cart
-        </header>
+        <Header />
         <main>
           Contain
         </main>
-        <footer>
-          footer
-        </footer>
+        <Footer />
 
       </div>
   )
