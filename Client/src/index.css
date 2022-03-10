@@ -24,3 +24,17 @@ main{
   grid-area: main;
 }
 
+.wrapper{
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper .Proudct{
+  width: 68%;
+}
+.wrapper .filter{
+  width: 30%;
+}
+
+
+

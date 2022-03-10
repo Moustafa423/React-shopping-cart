@@ -9,7 +9,7 @@
     },
     {
         "id":"2",
-        "title":"Shose",
+        "title":"Camera",
         "imageUrl":"/image/product2.jpg",
         "desc":"this is product2",
         "price":30,
@@ -17,7 +17,7 @@
     },
     {
         "id":"3",
-        "title":"Shose",
+        "title":"Airpods",
         "imageUrl":"/image/product3.jpeg",
         "desc":"this is product3",
         "price":400,
@@ -25,7 +25,7 @@
     },
     {
         "id":"4",
-        "title":"Shose",
+        "title":"Keybord",
         "imageUrl":"/image/product4.jpg",
         "desc":"this is product4",
         "price":50,
