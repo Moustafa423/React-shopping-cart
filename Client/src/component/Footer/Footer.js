@@ -1,7 +1,8 @@
 import React from "react";
-import "../../css/Footer/Footer.css"
+import "../../css/Footer/Footer.css";
+import {words} from "../../Words"
  function Footer() {
-  return <footer>&copy; CopyWright Mustafa Elrawy 2022</footer>;
+  return <footer>{words.footerTitle}</footer>;
 }
 
 export default Footer
