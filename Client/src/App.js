@@ -1,6 +1,7 @@
 import React,{useState} from "react";
 import Header from "./component/Header/Header";
 import Footer from "./component/Footer/Footer";
+import Filter from "./component/Filter/Filter";
 import data from "./data.json"
 import Products from "./component/Products/Products";
 function App() {
@@ -12,7 +13,7 @@ function App() {
       <main>
         <div className="wrapper">
           <Products products={products}/>
-          <div className="filter"> Filter </div>
+          <Filter/>
         </div>
       </main>
       <Footer />
